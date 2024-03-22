@@ -21,7 +21,7 @@
     		"matthiasmullie/minify": "^1.3",
 		"joseki/webloader-filters": "^1.1",
     		"leafo/scssphp": "^0.8",
-    		"scssphp/scssphp": "^1.12"
+    		"scssphp/scssphp": "^1.12",
 		
 		"ext-json": "*"
 	},
